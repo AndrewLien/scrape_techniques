@@ -1,3 +1,3 @@
 # Scrapes
 
-Each python script is an example of a webscrape using various specified techniques.
+This is a collection of some sample scrapes that demonstrate different techniques.
